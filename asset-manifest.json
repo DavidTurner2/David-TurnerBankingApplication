@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/David-TurnerBankingApplication/static/css/main.f0d685eb.css",
+    "main.js": "/David-TurnerBankingApplication/static/js/main.86261332.js",
+    "static/media/bank.png": "/David-TurnerBankingApplication/static/media/bank.ae088f7309780dbcb2a0.png",
+    "index.html": "/David-TurnerBankingApplication/index.html",
+    "main.f0d685eb.css.map": "/David-TurnerBankingApplication/static/css/main.f0d685eb.css.map",
+    "main.86261332.js.map": "/David-TurnerBankingApplication/static/js/main.86261332.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0d685eb.css",
+    "static/js/main.86261332.js"
+  ]
+}
